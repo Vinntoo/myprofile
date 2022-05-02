@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinntoo
 - 👀 I’m interested in ReactJS, JavaScript & Cloud Computing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS & React Native
 - 💞️ I’m looking to collaborate on React Applications
 - 📫 How to reach me : Email; vincekiptoo@gmail.com
 
