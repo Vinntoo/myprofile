@@ -1,12 +1,11 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m @Vinntoo
-- 👀 I’m interested in ReactJS, JavaScript & Cloud Computing
-- 🌱 I’m currently learning React JS & React Native
-- 💞️ I’m looking to collaborate on React Applications
+- 👀 I’m interested in ReactJS, JavaScript & Google Cloud Platform
+- 🌱 I’m currently working with ReactJS, React Native and NodeJs
+- 💞️ I’m looking to collaborate on ReactJs/NodeJs Applications
 - 📫 How to reach me : Email; vincekiptoo@gmail.com
 
-I am currently working with React and Node Js<br>
 
 
 ## 🌐 Socials:
